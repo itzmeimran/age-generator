@@ -45,6 +45,7 @@ input{
 button{
     width:30%;
     float:right;
+    cursor:pointer;
 }
 .outputs-wrapper{
     width:100%;
